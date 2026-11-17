@@ -43,6 +43,8 @@ Evaluated on held-out patient CT slices after 5 epochs of fine-tuning a pretrain
 | **`subarachnoid`** | 12 | **0.8517** | 0.5167 | 0.4800 |
 | **`subdural`** | 7 | **0.8144** | 0.4967 | 0.3636 |
 
+
+Dataset: RSNA Intracranial Hemorrhage Detection (Kaggle) — used strictly for non-commercial research and educational purposes; no patient DICOM files are redistributed in this repository."
 ---
 
 ## Repository Structure
